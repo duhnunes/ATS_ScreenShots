@@ -1,4 +1,4 @@
-﻿#Requires AutoHotkey v2.0
+#Requires AutoHotkey v2.0
 SendMode "Input"
 SetWorkingDir A_ScriptDir
 
@@ -10,9 +10,10 @@ currentToast := ""
 running := false
 runscript := "="
 stopscript := "-"
-killscript := "Ctrl+Del"                          ; Label shown to user
 help := "?"
 closehelp := "Esc"
+; Only label, can't change
+killscript := "Ctrl+Del"                          ; Label shown to user
 ; --------- Texts ---------
 msgHeader := "Hotkeys"
 msgBody := "Press: '" runscript "' to start taking screenshots.`n`n"
