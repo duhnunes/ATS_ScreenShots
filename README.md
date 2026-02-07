@@ -1,5 +1,5 @@
 # ATS_ScreenShots
-A little screenshot automation with AutoHotKey to taking screenshot in ATS
+A little screenshot automation with AutoHotKey to taking screenshot in ATS with Toast
 
 ## Hotkeys
 
