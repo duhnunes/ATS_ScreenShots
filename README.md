@@ -17,8 +17,8 @@ All hotkeys: https://www.autohotkey.com/docs/v2/KeyList.htm
 ## How it Work
 > A small script to capture screenshots with coordinates in American Truck Simulator.
 
-After you press the "**=**" key the script start a cycle that repeats every 5 seconds.
-This cycle will press "**SHIFT**+**F11**" and then press "**ENTER**".
+After you press the (**=**) key the script start a cycle that repeats every 5 seconds.
+This cycle will press (**SHIFT**+**F11**) and then press (**ENTER**).
 
 A simple non-interactive GUI was added just for fun to show the available hotkeys.
-You can open the helper by default with "**?**".
+You can open the helper by default with (**?**).
